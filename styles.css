@@ -1,8 +1,8 @@
-body{
+.form-container{
     background-color: whitesmoke;
-    text-align: center;
-    
-}
-srchbtn{
-    text-decoration-color: green;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
 }
